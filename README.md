@@ -74,18 +74,6 @@ Application iOS de partage de photos d'actualité géolocalisé en temps réel (
 
 ---
 
-## 📊 Stats GitHub
-
-<div align="center">
-
-![Sébastien's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastien-burel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastien-burel&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📝 Derniers articles
 
 <!-- Ces articles sont mis à jour manuellement depuis haruni.net/fr#articles -->
