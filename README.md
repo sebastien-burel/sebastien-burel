@@ -18,7 +18,7 @@
 
 Ingénieur informatique diplômé de l'**EPITA** (1993), je conçois et développe des produits digitaux depuis plus de 20 ans via **[haruni.net](https://haruni.net)**.
 
-Mon focus actuel : **l'IA générative appliquée** — orchestration de LLMs, agents autonomes, pipelines RAG, génération d'images et intégration cloud AWS.
+Mon focus actuel : **l'IA générative appliquée** — orchestration de LLMs, agents autonomes, pipelines RAG, génération d'images et intégration cloud AWS / Scaleway.
 
 Basé à **Rennes**, j'interviens en **remote** pour des clients en France et à l'international.
 
