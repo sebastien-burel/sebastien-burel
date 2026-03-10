@@ -2,7 +2,7 @@
 
 # Sébastien Burel
 
-### IA Générative · Cloud AWS · Web & Mobile
+### IA Générative · Cloud AWS / Scaleway · Web & Mobile
 
 **20 ans de développement produit — de l'idée à la production**
 
@@ -67,7 +67,7 @@ Application desktop Mac multi-modèles LLM (OpenAI, Gemini, Llama, Anthropic, Mi
 Traitement vocal avec Whisper + PyTorch.
 
 ### 🕯️ [bymuriel.fr](https://bymuriel.fr) — 2025–présent
-Boutique artisanale avec pipeline de génération d'images produits : ComfyUI + Flux2 sur DGX Spark, backoffice Node.js sur mesure, synchronisation Shopify.
+Boutique artisanale sur Shopify avec pipeline de génération d'images produits : ComfyUI + Flux2 sur DGX Spark, backoffice Node.js sur mesure, synchronisation Shopify.
 
 ### 📰 CornerNews — 2013–2016
 Application iOS de partage de photos d'actualité géolocalisé en temps réel (San Francisco).
